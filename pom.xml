@@ -14,6 +14,10 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <groupId>org.ow2.asm</groupId>
+    <artifactId>asm-commons</artifactId>
+    <version>5.0.3</version>
+  </dependency>
   </dependencies>
   <build>
     <finalName>java-tomcat-maven-example</finalName>
